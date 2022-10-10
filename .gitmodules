@@ -1,0 +1,3 @@
+[submodule "lib/solbase"]
+	path = lib/solbase
+	url = https://github.com/sol-dao/solbase
